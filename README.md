@@ -7,3 +7,8 @@ Brief reference of the Git control version system.
 ```
 $ git add --all
 ```
+
+#### Commit with a message the files on the stage
+```
+$ git commmit -m "message of the commit"
+```
