@@ -12,3 +12,8 @@ $ git add --all
 ```
 $ git commmit -m "message of the commit"
 ```
+
+#### Show the log
+```
+$ git log
+```
