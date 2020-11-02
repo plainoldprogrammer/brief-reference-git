@@ -22,3 +22,9 @@ $ git commmit -m "message of the commit"
 ```
 $ git log
 ```
+
+#### Show the latest 2 commits
+```
+$ git log -n2
+```
+
