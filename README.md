@@ -28,3 +28,7 @@ $ git log
 $ git log -n2
 ```
 
+#### Modify the comment of the last commit
+```
+$ git commit --amend
+```
