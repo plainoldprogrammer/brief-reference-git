@@ -8,6 +8,11 @@ Brief reference of the Git control version system.
 $ git init
 ```
 
+#### Show the current status of the repository
+```
+$ git status
+```
+
 #### Add all the modified files to the stage
 ```
 $ git add --all
@@ -32,3 +37,5 @@ $ git log -n2
 ```
 $ git commit --amend
 ```
+
+
