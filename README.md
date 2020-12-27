@@ -98,10 +98,15 @@ or
 ```
 
 #### Get the sha1 of an object
-````
+```
 > echo "Apple Pie\n" | git hash-object --stdin
 
 or (is different)
 
 > echo Apple Pie\n | git hash-object --stdin
+```
+
+#### Create a hash object in the current git directory
+```
+> echo "Apple Pie 2" | git hash-object --stdin -w
 ```
