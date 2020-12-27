@@ -57,3 +57,11 @@ $ git commit --amend
 ```
 > git config --local --list
 ```
+
+#### Unset a specific configuration
+```
+> git config [<file-option>] --unset-all name [value_regex]
+
+Example:
+> git config --global --unset-all core.pager
+```
