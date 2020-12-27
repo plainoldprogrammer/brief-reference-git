@@ -91,3 +91,8 @@ or
 
 > git push --force origin
 ```
+
+#### Show the changes of a specific file
+```
+> git diff mainwindow.h
+```
