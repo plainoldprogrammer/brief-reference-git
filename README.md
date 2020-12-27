@@ -84,3 +84,10 @@ or
 
 > git diff --cached
 ```
+
+#### Correct the last commit message local and in github
+```
+> git commit --amend
+
+> git push --force origin
+```
