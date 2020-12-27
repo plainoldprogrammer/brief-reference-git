@@ -42,3 +42,8 @@ $ git commit --amend
 ```
 > git log --oneline
 ```
+
+#### Remove the last commit from git and github
+```
+> git push -f origin HEAD^:master
+```
