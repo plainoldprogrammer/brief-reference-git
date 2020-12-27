@@ -135,3 +135,8 @@ or (is different)
 ```
 > git log --graph
 ```
+
+#### Create a new branch
+```
+> git branch name_of_new_branch
+```
