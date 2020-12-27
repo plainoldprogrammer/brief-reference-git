@@ -176,3 +176,10 @@ NOTE:	With this command git is not pointing to a brach, is pointing directly to 
 
 NOTE: The current branch is detached from the whole branch, and then is set upper from the master branch (changes the base of the current branch).
 ```
+
+#### View the config file of a repo
+```
+cd project
+
+project> vim .git/config
+```
