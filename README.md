@@ -65,3 +65,8 @@ $ git commit --amend
 Example:
 > git config --global --unset-all core.pager
 ```
+
+#### Create a git tag
+```
+> git tag -a v1.0 -m "Version v1.0 (Stable)"
+```
