@@ -52,3 +52,8 @@ $ git commit --amend
 ```
 > git config --global --list
 ```
+
+#### Show the local configuration
+```
+> git config --local --list
+```
