@@ -75,3 +75,12 @@ Example:
 ```
 > git push origin <tagname>
 ```
+
+#### View the diff of the just added files
+```
+> git diff --staged
+
+or
+
+> git diff --cached
+```
