@@ -140,3 +140,8 @@ or (is different)
 ```
 > git branch name_of_new_branch
 ```
+
+#### Select a specific branch
+```
+> git checkout the_other_branch
+```
