@@ -169,3 +169,10 @@ NOTE: The current one is not mentioned because is obvios that the merge will be 
 
 NOTE:	With this command git is not pointing to a brach, is pointing directly to a commit.
 ```
+
+#### Make rebase of the current branch with master
+```
+> git rebase master
+
+NOTE: The current branch is detached from the whole branch, and then is set upper from the master branch (changes the base of the current branch).
+```
