@@ -110,3 +110,8 @@ or (is different)
 ```
 > echo "Apple Pie 2" | git hash-object --stdin -w
 ```
+
+#### Print the object type
+```
+> git cat-file b4c5c4428be5d80fad54571182c3f1e98fa03f4f -t
+```
