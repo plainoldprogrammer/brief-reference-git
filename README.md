@@ -130,3 +130,8 @@ or (is different)
 ```
 > git branch
 ```
+
+#### Show the graph
+```
+> git log --graph
+```
