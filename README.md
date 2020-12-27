@@ -205,3 +205,8 @@ project> vim .git/config
 
 > git push origin master
 ```
+
+#### Remove a file from the index but keeep it around locally
+```
+> git rm --cached <file>
+```
