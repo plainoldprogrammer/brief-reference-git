@@ -145,3 +145,10 @@ or (is different)
 ```
 > git checkout the_other_branch
 ```
+
+#### Merge a specific branch with the current
+```
+> git merche specific_branch_name
+
+NOTE: The current one is not mentioned because is obvios that the merge will be with the current used.
+```
