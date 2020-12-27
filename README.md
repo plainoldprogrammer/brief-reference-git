@@ -125,3 +125,8 @@ or (is different)
 ```
 > git count-objects
 ```
+
+#### List the branches
+```
+> git branch
+```
