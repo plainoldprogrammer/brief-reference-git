@@ -162,3 +162,10 @@ NOTE: The current one is not mentioned because is obvios that the merge will be 
 ```
 > git merge master
 ```
+
+#### Checkout to a commit
+```
+> git checkout d97abc9d94
+
+NOTE:	With this command git is not pointing to a brach, is pointing directly to a commit.
+```
