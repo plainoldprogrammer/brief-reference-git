@@ -152,3 +152,8 @@ or (is different)
 
 NOTE: The current one is not mentioned because is obvios that the merge will be with the current used.
 ```
+
+#### Confirm the fix of the conflic of a merge
+```
+> git commit
+```
