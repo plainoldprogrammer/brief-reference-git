@@ -38,4 +38,7 @@ $ git log -n2
 $ git commit --amend
 ```
 
-
+#### Show the commits message in oneline
+```
+> git log --oneline
+```
