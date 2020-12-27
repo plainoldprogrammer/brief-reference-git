@@ -217,3 +217,8 @@ project> vim .git/config
 
 > git commit -m "Delete suo file from repository"
 ```
+
+#### Remove the git file name limit
+```
+> git config --system core.longpaths true
+```
