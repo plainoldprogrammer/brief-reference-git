@@ -183,3 +183,8 @@ cd project
 
 project> vim .git/config
 ```
+
+#### View all the branches references
+```
+> git branch --all
+```
