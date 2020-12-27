@@ -188,3 +188,8 @@ project> vim .git/config
 ```
 > git branch --all
 ```
+
+#### View all the references
+```
+> git show-ref
+```
