@@ -198,3 +198,10 @@ project> vim .git/config
 ```
 > git show-ref master
 ```
+
+#### Undo a commit by creating another commit
+```
+> git revert HEAD~1
+
+> git push origin master
+```
