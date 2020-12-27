@@ -47,3 +47,8 @@ $ git commit --amend
 ```
 > git push -f origin HEAD^:master
 ```
+
+#### Show the global configuration
+```
+> git config --global --list
+```
