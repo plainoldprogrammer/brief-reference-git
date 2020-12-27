@@ -210,3 +210,10 @@ project> vim .git/config
 ```
 > git rm --cached <file>
 ```
+
+#### Remove a previously added file in git
+```
+> git rm --cached project1.suo
+
+> git commit -m "Delete suo file from repository"
+```
