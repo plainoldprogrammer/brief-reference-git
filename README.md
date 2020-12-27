@@ -157,3 +157,8 @@ NOTE: The current one is not mentioned because is obvios that the merge will be 
 ```
 > git commit
 ```
+
+#### Merge the actual branch with master branch
+```
+> git merge master
+```
