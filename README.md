@@ -193,3 +193,8 @@ project> vim .git/config
 ```
 > git show-ref
 ```
+
+#### View all the references from master
+```
+> git show-ref master
+```
