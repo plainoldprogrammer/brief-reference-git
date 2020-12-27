@@ -120,3 +120,8 @@ or (is different)
 ```
 > git cat-file b4c5c4428be5d80fad54571182c3f1e98fa03f4f -p
 ```
+
+#### Count the objects
+```
+> git count-objects
+```
