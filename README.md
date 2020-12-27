@@ -96,3 +96,12 @@ or
 ```
 > git diff mainwindow.h
 ```
+
+#### Get the sha1 of an object
+````
+> echo "Apple Pie\n" | git hash-object --stdin
+
+or (is different)
+
+> echo Apple Pie\n | git hash-object --stdin
+```
