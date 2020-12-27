@@ -70,3 +70,8 @@ Example:
 ```
 > git tag -a v1.0 -m "Version v1.0 (Stable)"
 ```
+
+#### Push a git tag
+```
+> git push origin <tagname>
+```
