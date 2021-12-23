@@ -222,3 +222,8 @@ project> vim .git/config
 ```
 > git config --system core.longpaths true
 ```
+
+#### Change the remote url
+```
+> git remote set-url origin <THE-URL-HERE>
+```
